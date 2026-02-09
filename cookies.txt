@@ -1,8 +1,3 @@
 1.Flour
 2.Sugar
-<<<<<<< HEAD
-3. Chocolate chips
-=======
 3.Vegan Carob Chips
-
->>>>>>> vegan-experiment
